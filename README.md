@@ -1,6 +1,4 @@
-# fakesite
-this site for fun
-[index.html](https://github.com/user-attachments/files/25457540/index.html)
+(https://github.com/user-attachments/files/25457540/index.html)
 <!DOCTYPE html>
 <html lang="en">
 <head>
